@@ -1,0 +1,17 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:poetry",
+    "python-envs.defaultPackageManager": "ms-python.python:poetry",
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "172.28.208.1",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "database": "projet_bi",
+            "username": "postgres",
+            "name": "projet_bi",
+            "password": "Gaspard1997"
+        }
+    ]
+}
